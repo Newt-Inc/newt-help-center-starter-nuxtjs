@@ -97,3 +97,5 @@ $ yarn start
 | description | 説明文 | テキスト | 必須フィールド |
 | emoji | 絵文字 | テキスト |  |
 | sortOrder | 並び順（昇順） | 数値 |  |
+
+Deploy
