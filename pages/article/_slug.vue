@@ -57,7 +57,7 @@ export default {
         slug: {
           ne: currentArticle.slug,
         },
-        select: ['slug', 'title'],
+        select: ['_id', 'slug', 'title'],
       },
     })
     return {}
